@@ -1,2 +1,2 @@
 # ChronoMem
-Persistent, Personalized Memory Infrastructure for AI Agents
+ChronoMem is a time-aware, scoped memory infrastructure layer that enables personalized AI agents to persist, retrieve, and update knowledge correctly across time.
